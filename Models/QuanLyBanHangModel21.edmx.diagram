@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b2659fc686b043b5aa46d9200f589922" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.BinhLuan" Width="1.5" PointX="10.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.ChiTietDonDatHang" Width="1.5" PointX="13.25" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.ChiTietPhieuNhap" Width="1.5" PointX="5.25" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.DonDatHang" Width="1.5" PointX="11" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.KhachHang" Width="1.5" PointX="8.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.LoaiSanPham" Width="1.5" PointX="5.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.LoaiThanhVien" Width="1.5" PointX="5.75" PointY="15.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.NhaCungCap" Width="1.5" PointX="0.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.NhaSanXuat" Width="1.5" PointX="5.75" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.PhieuNhap" Width="1.5" PointX="3" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.SanPham" Width="1.5" PointX="8" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.ThanhVien" Width="1.5" PointX="8" PointY="14.375" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_BinhLuan_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_BinhLuan_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_ChiTietDonDatHang_DonDatHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_ChiTietDonDatHang_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_ChiTietPhieuNhap_PhieuNhap" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_ChiTietPhieuNhap_SanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_DonDatHang_KhachHang" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_KhachHang_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_SanPham_LoaiSanPham" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_ThanhVien_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_PhieuNhap_ToTable" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_SanPham_NhaCungCap" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_SanPham_NhaSanXuat" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.LoaiThanhVien_Quyen" Width="1.5" PointX="11" PointY="15.25" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.Quyen" Width="1.5" PointX="8.75" PointY="19.5" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_LoaiThanhVien_Quyen_LoaiThanhVien" />
+        <AssociationConnector Association="QuanLyBanHangModel1.FK_LoaiThanhVien_Quyen_Quyen" />
+        <EntityTypeShape EntityType="QuanLyBanHangModel1.LienHe" Width="1.5" PointX="0.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

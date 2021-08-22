@@ -1,0 +1,39 @@
+﻿
+@using DealineMVC.Models;
+@{
+    ViewBag.Title = "SanPham1";
+    Layout = "~/Views/Playout/HomePlayout.cshtml";
+}
+@{ IEnumerable<SanPham> lsdSP = (IEnumerable<SanPham>)ViewBag.LstSP;
+    IEnumerable<SanPham> lsdDT = (IEnumerable<SanPham>)ViewBag.LstDT;
+    IEnumerable<SanPham> lsdMTB = (IEnumerable<SanPham>)ViewBag.LstMTB;
+}
+
+@*Chen partial vào 1 view*@
+@*cach 1*@
+<div class="container">
+    <div class="content-top">
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
+        <i class="fa fa-laptop"></i><h1>Máy tính xách tay mới nhất</h1>
+        @Html.Partial("SanPhamPartial", lsdSP)
+    </div>
+
+</div>
+<div class="container">
+    <div class="content-top">
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+        <i class="fa fa-phone-square"></i> 
+        <h1>Điện thoại mới nhất</h1>
+        @Html.Partial("SanPhamPartial", lsdDT)
+    </div>
+</div>
+<div class="container">
+    <div class="content-top">
+        <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+        <i class="fa fa-tablet"></i>
+        <h1>Máy tính bảng mới nhất</h1>
+        @Html.Partial("SanPhamPartial", lsdMTB)
+    </div>
+</div>
+

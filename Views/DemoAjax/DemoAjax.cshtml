@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "DemoAjax";
+    Layout = "~/Views/Playout/HomePlayout.cshtml";
+}
+
+@*load ajax theo cach 1 dung ajax.actionlink*@
+<!--@Ajax.ActionLink("Bấm vào đây","TestAjaxActionLink",new AjaxOptions{HttpMethod="Get", UpdateTargetId="KetQua1", InsertionMode=InsertionMode.InsertAfter, LoadingElementId="hungload" })
+<div id="KetQua1" style="height:150px;">
+    Hưng ơi
+</div>-->
+@*cach 2 dung ajax begin form*@
+@*@using (Ajax.BeginForm("LoadAjaxBeginForm", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "KetQua", InsertionMode = InsertionMode.Replace, LoadingElementId = "hungload" }))
+    {
+        <input name="txt1" />
+        <input type="submit"value="Submit" />
+     }
+    <div id="KetQua" style="height:150px;">
+        Hưng ơi
+        <br />
+    </div>
+    <div id="hungload" style="display:none;">
+        <img src="~/Content/images/id-loading-1.gif" />
+    </div>*@
+@Ajax.ActionLink("Bấm vào đây", "LoadSPAjax", new AjaxOptions { HttpMethod = "Get", UpdateTargetId = "KetQua1", InsertionMode = InsertionMode.InsertAfter, LoadingElementId = "hungload" })
+<div class="container">
+    <div class="content-top">
+        <div id="KetQua1" style="height:150px;">
+            Hưng ơi
+        </div>
+        </div>
+    </div>
+
+        <div id="hungload" style="display:none;">
+            <img src="~/Content/images/id-loading-1.gif" />
+        </div>

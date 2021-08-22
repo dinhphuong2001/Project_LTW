@@ -1,0 +1,44 @@
+﻿@using DealineMVC.Models
+
+@model IEnumerable<ItemGioHang>
+@{
+    ViewBag.Title = "XemGioHang";
+    Layout = "~/Views/Playout/ProductLayout.cshtml";
+}
+@if (Model == null)
+{
+    <h1>Giỏ hàng rỗng</h1>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <td>Mã SP:</td>
+            <td>Tên SP:</td>
+            <td>Hình ảnh:</td>
+            <td>Số lượng:</td>
+            <td>Đơn giá:</td>
+            <td>Thành tiền:</td>
+
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MaSP</td>
+                <td>@item.TenSP</td>
+                <td><img src="@Url.Content("~/Content/HinhSP/" + item.HinhAnh)" height="50" ; width="50" /></td>
+                <td>@item.DonGia.ToString("#,##") đồng</td>
+                <td>@item.SoLuong</td>
+                <td>@item.ThanhTien.ToString("#,##") đồng</td>
+
+
+
+
+
+            </tr>
+        }
+    </table>
+}
+
+
+

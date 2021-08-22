@@ -1,0 +1,120 @@
+﻿@using DealineMVC.Models;
+@model IEnumerable<ItemGioHang>
+@{
+    ViewBag.Title = "SanPham";
+    Layout = "~/Views/Playout/ProductLayout.cshtml";
+}
+
+
+
+<div class="col-md-9 product1">
+    <div class=" bottom-product">
+
+        @if (Model == null || Model.Count() == 0)
+        {
+            <h1 style="color:darkred">Giỏ hàng rỗng</h1>
+        }
+        else
+        {
+            <table class="table">
+                <tr>
+                    <td>Mã SP:</td>
+                    <td>Tên SP:</td>
+                    <td>Hình ảnh:</td>
+                    <td>Số lượng:</td>
+                    <td>Đơn giá:</td>
+                    <td>Thành tiền:</td>
+
+                </tr>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.MaSP</td>
+                        <td>@item.TenSP</td>
+                        <td><img src="@Url.Content("~/Content/HinhSP/" + item.HinhAnh)" height="50" ; width="50" /></td>
+                        <td>@item.SoLuong</td>
+                        <td>@item.DonGia.ToString("#,##") đồng</td>
+
+                        <td>@item.ThanhTien.ToString("#,##") đồng</td>
+                        <td>
+                            @Html.ActionLink("Sửa", "SuaGioHang", new { @MaSP = item.MaSP })
+                            @Html.ActionLink("Xóa", "XoaGioHang", new { @MaSP = item.MaSP })
+                        </td>
+                    </tr>
+                }
+            </table>
+
+            using (Html.BeginForm("DatHang", "GioHang"))
+            {
+                @*form luu thong tin kh chua co tai khoan*@
+                if (Session["TaiKhoan"] == null)
+                {
+                    <div class="ThongTinMuaHang">
+                        <table align="center" class="table">
+                            <tr>
+                                <td align="center" colspan="2"><b>Thông tin khách hàng</b></td>
+                            </tr>
+                            <tr>
+                                <td>Họ tên</td>
+                                <td>
+                                    @Html.TextBox("TenKH", null, new { @class = "SDT", required = "required" })
+                                    <p style="color:red"></p>
+
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Địa chỉ</td>
+                                <td>
+                                    @Html.TextBox("DiaChi", null, new { @class = "SDT", required = "required" })
+                                    <p style="color:red"></p>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Email</td>
+                                <td>
+                                    @Html.TextBox("Email",null, new { @class = "SDT",type = "email", required = "required" })
+                                    <p style="color:red"></p>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>Điện thoại</td>
+                                <td>
+                                    @Html.TextBox("SoDienThoai",null,new { @class = "SDT", required = "required" })
+                                    <p style="color:red"></p>
+                                </td>
+
+                            </tr>
+                        </table>
+
+                    </div>
+
+                }
+                <div class="divDatHang" style="text-align:right;">
+                    <input type="submit" value="Đặt hàng" class="btn btn-danger" onclick="alert('Bạn đã đặt hàng thành công!')"/>
+                    @Html.ActionLink("Mua tiếp", "Index1", "Home",null, new { @class = "btn btn-success" })
+                </div>
+            }
+
+
+
+
+        }
+        <div class="clearfix"> </div>
+    </div>
+
+</div>
+@*kiem validation thong qua jquerry*@
+
+<style>
+    input[type="submit"] {
+        padding: 4px;
+        margin: 0;
+    }
+    .SDT {
+        border: 1px solid #cccccc;
+        border-radius: 10px 10px 10px 10px;
+    }
+</style>

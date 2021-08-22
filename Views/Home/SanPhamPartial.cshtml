@@ -1,0 +1,27 @@
+﻿@using DealineMVC.Models;
+@model IEnumerable<SanPham>
+
+<div class="container">
+    <div class="content-top">
+        <div class="grid-in">
+            @foreach (var item in Model.Take(3))
+            {
+
+                <div class="col-md-4 grid-top">
+                    <a href="@Url.Action("XemChiTietSanPham","SanPham", new { id=item.MaSP})" class="b-link-stripe b-animate-go  thickbox">
+                        <img class="img-responsive" src="@Url.Content("~/Content/HinhSP/" + item.HinhAnh)" alt="" >
+                        <div class="b-wrapper">
+                            <h3 class="b-animate b-from-left    b-delay03 ">
+                                <p><span style="font-size:20px;font-family:arial;color:white">Xem sản phẩm</span></p>
+                                @*<span>@item.CauHinh</span>*@
+                            </h3>
+                        </div>
+                    </a>
+                    <p><a href="single.html">@item.TenSP</a></p>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,629 @@
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\WebGrease.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+D:\desktop\hung1\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\desktop\hung1\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csprojAssemblyReference.cache
+D:\desktop\hung1\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+D:\desktop\hung1\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+D:\desktop\hung1\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+D:\desktop\hung1\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\WebGrease.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+C:\Users\Admin\source\repos\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\PagedList.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\PagedList.Mvc.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\WebGrease.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\PagedList.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\PagedList.Mvc.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.AssemblyReference.cache
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+C:\Users\Nitro5\Dropbox\My PC (LAPTOP-S9VBJNHT)\Desktop\DealineMVC\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\WebGrease.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csprojAssemblyReference.cache
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\WebGrease.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.AssemblyReference.cache
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+C:\Users\Nitro5\Documents\Zalo Received Files\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\WebGrease.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csprojAssemblyReference.cache
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+F:\TaiLieu\HUYNHDUCHUY-PC\HK3_NAM2\New folder\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll.config
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\DealineMVC.pdb
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.exe.config
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csc.rsp
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.exe.config
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\csi.rsp
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.AppContext.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Console.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Globalization.Calendars.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Http.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Net.Sockets.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.ValueTuple.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.exe.config
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\vbc.rsp
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\WebGrease.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\EntityFramework.SqlServer.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\PagedList.Mvc.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Helpers.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Mvc.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Optimization.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.Razor.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Deployment.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\System.Web.WebPages.Razor.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Newtonsoft.Json.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Antlr3.Runtime.pdb
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csprojAssemblyReference.cache
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CoreCompileInputs.cache
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC1.csproj.CopyComplete
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.dll
+E:\DealineMVC111\DealineMVC11\DealineMVC1\DealineMVC\obj\Debug\DealineMVC.pdb

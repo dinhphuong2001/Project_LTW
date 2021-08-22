@@ -1,0 +1,57 @@
+﻿@using DealineMVC.Models;
+@model IEnumerable<SanPham>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Playout/AdminLayout.cshtml";
+    // khoi tao control  webgrid
+    WebGrid grid = new WebGrid(source: Model, rowsPerPage: 13); // 1 trang chua 13 sp
+
+
+}
+@*the hien du lieu thong qa webgird*@
+@grid.GetHtml(
+     tableStyle: "gridTable",
+     headerStyle: "gridHead",
+     footerStyle: "gridFooter",
+     rowStyle: "gridRow",
+     alternatingRowStyle: "gridAltRow",
+     columns: grid.Columns(
+         grid.Column("MaSP", "Mã sản phẩm"),
+         grid.Column("TenSp", "Tên sản phẩm"),
+         grid.Column("CauHinh", "Mô tả", format: p => Html.Raw(p.CauHinh)),
+         grid.Column("HinhAnh", "Hình ảnh", format: p => Html.Raw("<img src=\"../Content/HinhSP/" + p.HinhAnh + "\">")),
+         grid.Column(format: p => Html.ActionLink("Sửa", "ChinhSua", new { id = p.masp })),
+          grid.Column(format: p => Html.ActionLink("Xóa", "Xoa", new { id = p.masp }))
+         ))
+@*css cho tung style cua table*@
+<style>
+    .gridTable{
+        width:100%;
+        border:1px solid #000000;
+    }
+        .gridTable td {
+            border: 1px solid #808080;
+        }
+    .gridHead {
+        background-color:green;
+    }
+    .gridAltRow{
+        color:#fff;
+        background-color:brown;
+    }
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+

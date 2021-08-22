@@ -1,0 +1,29 @@
+﻿
+<div id="divGioHang" class="cart box_1">
+    <a href="@Url.Action("XemGioHang", "GioHang")">
+        <h3 class="giohang">
+            <div class="total">
+                @ViewBag.TinhTongTien.ToString("#,##") VNĐ(<span>@ViewBag.TinhTongSoLuong</span> sp)
+            </div>
+            <img class="img" src="~/Content/images/cart.png" alt="" />
+        </h3>
+    </a>
+    <p><a href="@Url.Action("XemGioHang", "GioHang")" class="simpleCart_empty" id="text">Giỏ hàng</a></p>
+
+</div>
+<style>
+    .img{
+        margin-left : 20px;
+    }
+    .total {
+        margin-right : 10px;
+        color: #006699;
+    }
+    .giohang {
+        color: #006699;
+    }
+
+    #text {
+        color: #006699;
+    }
+</style>

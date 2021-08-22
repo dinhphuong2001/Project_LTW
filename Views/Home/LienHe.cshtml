@@ -1,0 +1,468 @@
+﻿
+@{
+    ViewBag.Title = "LienHe";
+    Layout = "~/Views/Playout/HomePlayout.cshtml";
+}
+
+
+<div class="container_fullwidth">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h5 class="title contact-title">
+                    <br>Contact Us
+                </h5>
+                <div class="map">
+                    <iframe width="600" height="350" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Vietnam&amp;aq=&amp;sll=14.058324,108.277199&amp;sspn=21.827722,43.286133&amp;ie=UTF8&amp;hq=&amp;hnear=Vietnam&amp;ll=14.058324,108.277199&amp;spn=8.883583,21.643066&amp;t=m&amp;z=6&amp;output=embed">
+                    </iframe>
+                </div>
+                <div class="clearfix">
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="contact-infoormation">
+                            <h5>
+                                Contact Info
+                            </h5>
+                            <p>
+                                Hỗ trợ :
+                                <br />
+                                Mọi thắc mắc về kĩ thuật xin vui lòng liên hệ thông qua những hình thức sau.
+                                <br />
+                                Đừng ngại ngần , hãy liên hệ ngay với chúng tôi để được hỗ trợ tận tình nhất có thể!
+                            </p>
+                            <ul>
+                                <li>
+                                    <span class="icon">
+                                        <img src="~/Content/images/message.png" alt="">
+                                    </span>
+                                    <p>
+                                        phuongyoutober@gmail.com
+                                       
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <img src="~/Content/images/phone.png" alt="">
+                                    </span>
+                                    <p>
+                                        0354211366
+                                       
+                                    </p>
+                                </li>
+                                <li>
+                                    <span class="icon">
+                                        <img src="~/Content/images/address.png" alt="">
+                                    </span>
+                                    <p>
+                                       
+                                    </p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="ContactForm">
+                            <h5>
+                                Contact Form
+                            </h5>
+                            <form>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <label>
+                                            Your Name
+                                            <strong class="red">
+                                                *
+                                            </strong>
+                                        </label>
+                                        <input class="inputfild" type="text" name="">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label>
+                                            Your Email
+                                            <strong class="red">
+                                                *
+                                            </strong>
+                                        </label>
+                                        <input class="inputfild" type="email" name="">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <label>
+                                            Your Message
+                                            <strong class="red">
+                                                *
+                                            </strong>
+                                        </label>
+                                        <textarea class="inputfild" rows="8" name="">
+                          </textarea>
+                                    </div>
+                                </div>
+                                <button class="pull-right">
+                                    Send Message
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix">
+        </div>
+    </div>
+</div>
+<!-- Bootstrap core JavaScript==================================================-->
+<script type="text/javascript" src="~/Content/js/jquery-1.10.2.min.js">
+</script>
+<script type="text/javascript" src="~/Content/js/bootstrap.min.js">
+</script>
+<script defer src="~/Content/js/jquery.flexslider.js">
+</script>
+<script type="text/javascript" src="~/Content/js/jquery.carouFredSel-6.2.1-packed.js">
+</script>
+<script type="text/javascript" src="~/Content/js/script.min.js">
+</script>
+<style>
+    .contact-title {
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .title {
+        text-align: left;
+        position: relative;
+        width: 100%;
+        margin-bottom: 15px;
+        font-size: 24px;
+        color: #2f2f2f;
+        font-weight: 300;
+        padding-bottom: 5px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    h1, h2, h3, h4, h5 {
+        margin: 0;
+        padding: 0;
+        font-weight: 300;
+    }
+
+    .map iframe {
+        float: left;
+        width: 100%;
+    }
+
+    p {
+        margin: 0 0 10px;
+    }
+
+    .map iframe {
+        float: left;
+        width: 100%;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        overflow: hidden;
+        margin: 15px 0;
+        -webkit-box-shadow: inset 0 0 20px 5px #949494;
+        box-shadow: inset 0 0 20px 5px #949494;
+    }
+
+    iframe[Attributes Style] {
+        width: 600px;
+        height: 350px;
+    }
+
+    iframe {
+        border-width: 2px;
+        border-style: inset;
+        border-color: initial;
+        border-image: initial;
+    }
+
+    .contact-infoormation,
+    .ContactForm {
+        border: 1px solid #E1E1E1;
+        border-radius: 10px;
+        float: left;
+        margin: 15px 0;
+        padding: 30px;
+        width: 100%;
+    }
+
+        .contact-infoormation h5,
+        .ContactForm h5 {
+            text-align: left;
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 30px;
+        }
+
+        .contact-infoormation p {
+            font-size: 13px;
+            color: #434343;
+            line-height: 22px;
+            text-align: justify;
+        }
+
+        .contact-infoormation ul {
+            float: left;
+            width: 100%;
+            padding-top: 20px;
+            position: relative;
+        }
+
+            .contact-infoormation ul li {
+                display: list-item;
+                margin-top: 5px;
+            }
+
+                .contact-infoormation ul li p {
+                    line-height: 18px;
+                }
+
+        .contact-infoormation .icon {
+            float: left;
+            width: 30px;
+            height: 30px;
+            padding: 5px;
+            border: 1px solid #cccccc;
+            -webkit-border-radius: 7px;
+            border-radius: 7px;
+            text-align: center;
+            vertical-align: middle;
+            margin: 5px 10px 10px 0
+        }
+
+        .ContactForm label {
+            position: relative;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .ContactForm .inputfild {
+            width: 100%;
+            margin-bottom: 22px;
+        }
+
+    .map iframe {
+        width: 100%;
+        height: 150px;
+        border: none;
+        padding: 0px;
+    }
+
+    .row {
+        padding-right: 1px;
+    }
+
+    .red {
+        color: #ff3a3a;
+    }
+
+    .regular, strong {
+        font-weight: 400;
+    }
+
+    *, *:before, *:after {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+    }
+
+    .clearfix:before, .clearfix:after {
+        display: table;
+        content: " ";
+    }
+
+    .clearfix:after {
+        clear: both;
+    }
+
+    input, button, select, textarea {
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+    }
+
+    div {
+        display: block;
+    }
+
+    ul, ol {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px;
+    }
+
+    li {
+        display: list-item;
+    }
+
+    ul {
+        list-style: none outside none;
+        margin: 0;
+        padding: 0;
+    }
+
+    p {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
+    h5, .h5 {
+        font-size: 14px;
+    }
+
+    h4, h5, h6 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 500;
+        line-height: 1.1;
+        color: inherit;
+    }
+
+    h5 {
+        display: block;
+        font-size: 0.83em;
+        margin-block-start: 1.67em;
+        margin-block-end: 1.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+    }
+
+    form {
+        display: block;
+        margin-top: 0em;
+    }
+
+    .row {
+        margin-right: -15px;
+        margin-left: -15px;
+    }
+
+        .row:before, .row:after {
+            display: table;
+            content: " ";
+        }
+
+        .row:before, .row:after {
+            display: table;
+            content: " ";
+        }
+
+        .row:after {
+            clear: both;
+        }
+
+    label {
+        display: inline-block;
+        margin-bottom: 5px;
+        font-weight: inherit;
+        font-size: 11px;
+        text-align: left;
+    }
+
+    input[type="text" i] {
+        padding: 1px 2px;
+    }
+
+    input[type="text"], input[type="email"], input[type="number"], input[type="password"], input[type="tel"], textarea {
+        background: #fff;
+        padding: 8px 15px;
+        border: 1px solid #cccccc;
+        font-size: 14px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+    }
+
+    input, button, select, textarea {
+        font-family: inherit;
+        font-size: inherit;
+        line-height: inherit;
+    }
+
+    button, input {
+        line-height: normal;
+    }
+
+    button, input, select, textarea {
+        margin: 0;
+        font-family: inherit;
+        font-size: 100%;
+    }
+
+    input {
+        text-rendering: auto;
+        letter-spacing: normal;
+        word-spacing: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+        cursor: text;
+        margin: 0em;
+        font: 400 13.3333px Arial;
+        padding: 1px 2px;
+        border-width: 2px;
+        border-style: inset;
+        border-color: aquamarine;
+        border-image: initial;
+    }
+
+    .pull-right {
+        float: right;
+    }
+
+    .pull-right {
+        float: right !important;
+    }
+
+    .button, button {
+        background: #fff;
+        padding: 10px 20px;
+        border: 1px solid #cccccc;
+        font-size: 14px;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+        outline: none;
+    }
+
+    a, button, .button, .products, .name, .price, .fa, .sequence-next, .sequence-prev {
+        -webkit-transition: all 300ms cubic-bezier(0.250, 0.250, 0.750, 0.750);
+        -moz-transition: all 300ms cubic-bezier(0.250, 0.250, 0.750, 0.750);
+        -o-transition: all 300ms cubic-bezier(0.250, 0.250, 0.750, 0.750);
+        transition: all 300ms cubic-bezier(0.250, 0.250, 0.750, 0.750);
+    }
+</style>
+<script type="text/javascript" src="~/Content/js/jquery-1.10.2.min.js">
+</script>
+<script type="text/javascript" src="~/Content/js/bootstrap.min.js">
+</script>
+<script defer src="~/Content/js/jquery.flexslider.js">
+</script>
+<script type="text/javascript" src="~/Content/js/jquery.carouFredSel-6.2.1-packed.js">
+</script>
+<script type="text/javascript" src="~/Content/js/script.min.js">
+</script>
+

@@ -1,0 +1,24 @@
+﻿
+@using DealineMVC.Models
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Playout/HomePlayout.cshtml";
+}
+@{
+    ViewBag.Title = "Index2";
+    Layout = "~/Views/Playout/HomePlayout.cshtml";
+}
+@{
+    IEnumerable<SanPham> lstDTM = (IEnumerable<SanPham>)ViewBag.lstDTM;
+    IEnumerable<SanPham> lstLT = (IEnumerable<SanPham>)ViewBag.ListLTM;
+    IEnumerable<SanPham> lstMTB = (IEnumerable<SanPham>)ViewBag.ListMTB;
+
+}
+@*buoc1: tac code va long partialview*@
+@*buoc2gan du lieu tu controller thong qua viewbag vao partial view*@
+<div class="container">
+    @Html.Partial("~/Views/SanPham1/SanPhamStyle1Partial.cshtml", lstDTM)
+</div>
+
+
+

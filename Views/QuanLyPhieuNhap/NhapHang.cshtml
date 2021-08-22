@@ -1,0 +1,171 @@
+﻿@using DealineMVC.Models;
+@model PhieuNhap
+
+
+
+@{
+    ViewBag.Title = "NhapHang";
+    Layout = "~/Views/Playout/AdminLayout.cshtml";
+}
+
+@{
+    IEnumerable<NhaCungCap> lstNCC = ViewBag.MaNCC as IEnumerable<NhaCungCap>;
+
+}
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+  @*  // lam function de dinh dang theo kieu datetimepicker*@
+  $( function() {
+    $( ".date" ).datepicker();
+  } );
+</script>
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="ThongTinPhieuNhap col-md-12">
+            <div class="col-md-2">
+                Nhà cung cấp
+            </div>
+            <div class="col-md-5">
+                @*chon ncc*@
+                <select class="MaNCC" name="MaNCC">
+                    @foreach (var item in lstNCC)
+                    {
+                        <option value="@item.MaNCC">
+                            @item.TenNCC
+
+                        </option>
+                    }
+                </select>
+
+            </div>
+            <br /><br />
+            <div class="clearfix"></div>
+            <div class="col-md-12">
+                <div class="col-md-2">
+                    Ngày nhập
+                </div>
+                <div class="col-md-3">
+                    <input name="NgayNhap" type="text" class="date" />
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    @*phan chi tiet nhap hang*@
+    <table class="table tblChiTietPhieuNhap">
+        @{ IEnumerable<SanPham> lstSanPham = ViewBag.ListSanPham as IEnumerable<SanPham>;}
+        @*tao ra 1 tr voi ndung nhap hang cua 1 sp*@
+        <tr class="trAppend" style="display:none">
+            <td>
+                <select class="ddlSanPham" name="">
+                    @foreach (var item in lstSanPham)
+                    {
+                        <option value="@item.MaSP">@item.TenSP</option>
+                    }
+
+                </select>
+            </td>
+            <td>
+                <input name="" class="txtDonGia" value="0" />
+            </td>
+            <td>
+                <input name="" class="txtSoLuong" value="0" />
+            </td>
+            <td>
+                <input class="btnDelete btn btn-danger" style="width:30px;height:30px" value="-" />
+            </td>
+        </tr>
+        <tr date-id="-1">
+            <td>Sản phẩm</td>
+            <td>Đơn giá nhập</td>
+            <td>Số lượng nhập</td>
+            <td></td>
+        </tr>
+    </table>
+    @*button them*@
+    <input type="button" value="+" class="btn btn-success" id="btnAdd" />
+    <input type="submit" value="Nhập hàng" class="btn btn-primary" id="btnNhapHang" />
+}
+<script>
+    $("#btnAdd").click(function () {
+@*phuong thuc find la tkiem the nao do, o day la the tr; lastchid la the tr cuoi trong tblchitietpn*@
+        var id_cuoi = $(".tblChiTietPhieuNhap").find("tr:last-child").attr("data-id");
+        i = parseInt(id_cuoi) + 1;
+        @* lay noi dung phai trong the trappend *@
+        var tdnoidung = $(".trAppend").html();
+        @* b2: tao 1 the tr bao ngoai noi dung *@
+        var trnoidung = "<tr class=\"trAppend\" data-id=\"" + i + "\">" + tdnoidung + "</tr>";
+        @* b3: lay the table append vao tr *@
+        $(".tblChiTietPhieuNhap").append(trnoidung);
+    });
+@*phuong thuc xl thuoc tinh attr tu the tr gan xuong chi so phan tu trong thuoc tinh name cua the input*@
+    function loadIDLENTHE() {
+        $(".trAppend").each(function () {
+            var id = $(this).attr("data-id");
+            var nameMaPhieuNhap = "[" + id + "].MaSP";
+            var nameMaSanPham = "[" + id + "].MaSP";
+            var nameSoLuongNhap = "[" + id + "].SoLuongNhap";
+            var nameDonGiaNhap = "[" + id + "].DonGiaNhap";
+            $(this).find(".ddlSanPham").attr("name", nameMaSanPham);
+            $(this).find(".txtDonGia").attr("name", nameDonGiaNhap);
+            $(this).find(".txtSoLuong").attr("name", nameSO);
+
+
+
+        })
+
+
+
+
+    }
+@*xu li xoa*@
+    $("body").delegate(".btnDelete", "click", function () {
+        $(this).closest(".trAppend").remove();
+
+
+    })
+    $("#btnNhapHang").click(function () {
+        if (KiemTraDonGia() == false) {
+            return false;
+        }
+        if (KiemTraSoLuong() == false) {
+            return false;
+        }
+    });
+    function KiemTraDonGia() {
+
+
+        var b1 = true;
+        $(".txtDonGia").each(function () {
+            var giatri = $(this).val();
+            if (isNaN(giatri) == true) {
+                alert("Đơn giá không hợp lệ!!!!");
+                b1 = false;
+                return b1;
+            }
+            });
+    }
+    function KiemTraSoLuong() {
+
+
+        var b1 = true;
+        $(".txtSoLuong").each(function () {
+            var giatri = $(this).val();
+            if (isNaN(giatri) == true) {
+                alert("Số lượng không hợp lệ!!!!");
+                b1 = false;
+                return b1;
+
+            }
+        });
+    }
+</script>
+
+
